@@ -1,0 +1,8 @@
+{
+  "domain": "vlc_http",
+  "name": "VLC http",
+  "documentation": "https://www.home-assistant.io/integrations/vlc-http",
+  "requirements": ["xmltodict==0.10.2"],
+  "dependencies": [],
+  "codeowners": ["@jeena"]
+}
